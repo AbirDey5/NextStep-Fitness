@@ -1,2 +1,3 @@
 # Final-Backend
-Backend of the project (collected from shuvo backend)
+Backend of the project 
+made adjustments displaying exercises
